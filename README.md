@@ -1,3 +1,5 @@
+For this question : https://stackoverflow.com/questions/58725177/how-to-change-webpack-module-export-require-string/58950986#58950986
+
 # AngularWebpackChangeRequireString
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.5.
