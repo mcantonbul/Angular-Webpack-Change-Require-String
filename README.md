@@ -1,4 +1,4 @@
-For this question : https://stackoverflow.com/questions/58725177/how-to-change-webpack-module-export-require-string/58950986#58950986
+For this question : https://stackoverflow.com/questions/58725177/how-to-change-webpack-module-export-require-string
 
 # AngularWebpackChangeRequireString
 
