@@ -1,4 +1,4 @@
-import { Component } from '@angular/core';
+import { Component,ComponentRef } from '@angular/core';
 
 @Component({
   selector: 'app-root',
@@ -7,4 +7,8 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'angular-webpack-change-require-string';
+  constructor(){
+    let classRef=ComponentRef;
+    console.log(classRef);
+  }
 }
